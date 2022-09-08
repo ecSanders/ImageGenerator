@@ -1,0 +1,4 @@
+https://colab.research.google.com/github/smartgeometry-ucl/dl4g/blob/master/gan.ipynb#scrollTo=nr7hnWs4c1Sw 
+
+Which to use tensorflow or pytorch?
+Do you use CUDA?
