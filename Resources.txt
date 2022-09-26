@@ -2,3 +2,7 @@ https://colab.research.google.com/github/smartgeometry-ucl/dl4g/blob/master/gan.
 
 Which to use tensorflow or pytorch?
 Do you use CUDA?
+
+- Tweak optimizers
+- Learning rate
+- Add to model size/ decrease model size
