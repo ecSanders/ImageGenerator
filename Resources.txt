@@ -6,3 +6,10 @@ Do you use CUDA?
 - Tweak optimizers
 - Learning rate
 - Add to model size/ decrease model size
+
+
+# Fix resizing issue
+https://discuss.pytorch.org/t/runtimeerror-stack-expects-each-tensor-to-be-equal-size-but-got-3-224-224-at-entry-0-and-3-224-336-at-entry-3/87211/6
+
+# image coloring 
+https://stackoverflow.com/questions/62795645/what-does-it-mean-for-the-shape-of-an-image-tensor-to-be-64-64-does-that-mea 
